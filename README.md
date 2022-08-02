@@ -11,4 +11,5 @@
 
 
 -> GT2000 is detials of items of shops based in india and having items more than 2000 units
+
 -> GT1000 is detials of items of shops based in india and having items more than 1000 units but less than 2000 units
